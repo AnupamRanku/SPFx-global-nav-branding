@@ -1,0 +1,51 @@
+.app {
+    .top {
+        height: 40px;
+        text-align: left;
+        line-height: 2.5;
+        font-weight: bold;
+        display: flex;
+        align-items: left;
+        justify-content: left;
+        height: 80px;
+    }
+    .bottom,
+    a,
+    a:visited,
+    a:hover {
+        height: 40px;
+        text-align: center;
+        line-height: 2.5;
+        font-weight: bold;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .headerlogo {
+        height: 100px;
+        margin-left: 20%;
+        margin-top: 5px;
+    }
+    .commandBar {
+        width: 100%;
+        left: 50%;
+        margin-left: 10%;
+        margin-top: 40px;
+        background-color: rgba(0, 0, 0, 0);
+    }
+    .commandBarFooter {
+        width: 100%;
+        left: 50%;
+        margin-left: 10%;
+        background-color: rgba(0, 0, 0, 0);
+    }
+    a {
+        text-decoration: none;
+        color: white;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .bottom {
+        background-color: #ff94f3;
+    }
+}

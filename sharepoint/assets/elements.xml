@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+
+    <CustomAction 
+        Title="SPFxApplicationCustomizer"
+        Location="ClientSideExtension.ApplicationCustomizer"
+        ClientSideComponentId="b1efedb9-b371-4f5c-a90f-3742d1842cf3"
+        ClientSideComponentProperties="{&quot;TopMenuTermSet&quot;:&quot;TopNav&quot;,&quot;BottomMenuTermSet&quot;:&quot;Footer&quot;}">
+
+    </CustomAction>
+
+</Elements>
